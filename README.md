@@ -2,9 +2,9 @@
 
 Dieses Repository enthält ein zusammenhängendes Set an Arbeitsdokumenten, mit denen ein kleines oder mittleres Unternehmen den Einsatz KI-gestützter Werkzeuge wie ChatGPT, Microsoft Copilot oder Midjourney rechtlich einordnen und dokumentieren kann. Es entstand als Arbeitsprobe im Rahmen einer Ausbildung zum zertifizierten Datenschutzbeauftragten (TÜV) und bildet ab, wie eine solche Einführung in der Praxis begleitet wird, nicht nur, welche Vorschriften dabei gelten.
 
-## Warum dieses Repository anders aufgebaut ist als andere AI-Act-Checklisten
+## Schwerpunkte dieses Repositorys
 
-Die meisten öffentlich verfügbaren Vorlagen zum AI Act beschränken sich auf die Risikoklassifizierung nach Art. 6 und Anhang III. Zwei Punkte werden dabei regelmäßig ausgespart, obwohl sie für ein Unternehmen, das bereits heute Werkzeuge wie ChatGPT einsetzt, unmittelbar relevant sind: die Pflicht zur KI-Kompetenz des Personals nach Art. 4 AI Act, die bereits seit dem 2. Februar 2025 gilt, und die Transparenzpflichten nach Art. 50 AI Act, die seit dem 2. August 2026 anwendbar sind und insbesondere Chatbots sowie KI-generierte Inhalte betreffen. Beide Pflichten sind in der Checkliste dieses Repositoriums als eigene Prüfpunkte enthalten.
+Neben der Risikoklassifizierung nach Art. 6 und Anhang III AI Act behandelt die Checkliste zwei Pflichten, die für Unternehmen mit bereits eingesetzten Werkzeugen wie ChatGPT unmittelbar relevant sind: die KI-Kompetenz des Personals nach Art. 4 AI Act, die seit dem 2. Februar 2025 gilt, und die Transparenzpflichten nach Art. 50 AI Act, die seit dem 2. August 2026 anwendbar sind und insbesondere Chatbots sowie KI-generierte Inhalte betreffen. Sie stehen als eigene Prüfpunkte in Abschnitt 2.3 (Art. 50) und Abschnitt 2.4 (Art. 4).
 
 ## Aufbau
 
@@ -26,4 +26,4 @@ Verordnung (EU) 2024/1689 über künstliche Intelligenz (AI Act); Datenschutz-Gr
 
 ## Lizenz
 
-Die Inhalte dieses Repositoriums stehen unter der Lizenz CC BY 4.0 (siehe `LICENSE`). Sie dürfen unter Namensnennung verwendet, angepasst und weiterverbreitet werden, auch kommerziell.
+Die Inhalte dieses Repositoriums stehen unter der Lizenz CC BY-NC 4.0 (siehe `LICENSE`). Sie dürfen unter Namensnennung für nicht kommerzielle Zwecke verwendet, angepasst und weiterverbreitet werden. Unternehmen dürfen die Vorlagen zusätzlich für ihre eigene interne Datenschutz- und KI-Compliance einsetzen. Die entgeltliche Weitergabe sowie die Verwendung in kommerziellen Produkten, Schulungen oder Beratungsleistungen für Dritte bedarf einer gesonderten Genehmigung des Urhebers.
